@@ -7,3 +7,7 @@ Data Encryption Standard (DES) for Text Files
 Blowfish Algorithm for Media Files
 
 Download all the three files and make sure to edit the path to the files you want to encrypt in the respective code files.
+
+# Publication
+Please find the paper publication of the project on this link [here](https://ieeexplore.ieee.org/document/10053514)
+
