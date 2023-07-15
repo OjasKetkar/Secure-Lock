@@ -1,4 +1,4 @@
-# File-Encryption-Decryption-Using-Java
+# Secure-Lock
 A simple system to encrypt and decrypt files using java
 You can encrypt three types of data using this system - Plain Text, Text Files (pdf,word,xml,etc) and Media Files (jpg,png,mp4)
 I have used three algorithms namely - 
